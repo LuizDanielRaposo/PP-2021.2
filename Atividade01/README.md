@@ -9,6 +9,6 @@ Multiplicar números sem utilizar o operador de multiplicação(*)</p>
 Contar a quantidade de vogais de um texto
 </h4>
 <h4 align = "center">
-link Repositorio: </p>
+link Repositorio: https://github.com/LuizDanielRaposo/PP-2021.2 </p>
 link Desafio: 
 </h4>
