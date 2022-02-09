@@ -4,11 +4,11 @@ Criar um repositório num Git público (Github, Gitlab, etc.), contendo um arqui
 </h3>
 <h4>
 Desafios propostos: </p>
-Detectar se é um numero par ou impar</p>
+Detectar se é um número par ou impar</p>
 Multiplicar números sem utilizar o operador de multiplicação(*)</p>
 Contar a quantidade de vogais de um texto
 </h4>
 <h4 align = "center">
-link Repositorio: https://github.com/LuizDanielRaposo/PP-2021.2 </p>
+link Repositório: https://github.com/LuizDanielRaposo/PP-2021.2 </p>
 link Desafio: https://github.com/LuizDanielRaposo/PP-2021.2/blob/main/Atividade01/desafioParOuImpar.js
 </h4>
